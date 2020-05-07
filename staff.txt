@@ -1,0 +1,14 @@
+{
+    "staff1": {
+        "name": "John Doe",
+        "email": "johndoe@gmail.com",
+        "password": "4321",
+        "username": "johndoe"
+    },
+    "staff2": {
+        "name": "Larry Page",
+        "email": "larry@gmail.com",
+        "password": "1234",
+        "username": "larry"
+    }
+}

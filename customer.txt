@@ -1,0 +1,20 @@
+{
+    "0025524505": [
+        {
+            "acct_name": "Moses Oghene",
+            "acct_bal": 2000,
+            "acct_type": "savings",
+            "acct_email": "larry@gmail.com",
+            "acct_num": "0025524505"
+        }
+    ],
+    "1059367457": [
+        {
+            "acct_name": "Joe Doe",
+            "acct_bal": 2000,
+            "acct_type": "current",
+            "acct_email": "johndoe@gmail.com",
+            "acct_num": "1059367457"
+        }
+    ]
+}
